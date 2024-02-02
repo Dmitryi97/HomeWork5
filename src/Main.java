@@ -43,7 +43,5 @@ public class Main {
             case 9, 10, 11 -> System.out.println(monthNumber + " осенний месяц.");
             default -> System.out.println(monthNumber + " такого месяца нет.");
         }
-
     }
-
 }
